@@ -1,0 +1,11 @@
+{
+    "applinks":{
+        "apps":[],
+        "details":[
+           {
+               "appID":"7LKX5XKD7D.com.SimpleProject.Galaxy",
+               "paths":["*"]
+           }
+        ]
+    }
+}
